@@ -18,7 +18,7 @@
     "jump.js": "^1.0.2",
     "loadjs": "^3.5.4",
     "marked": "^2.0.0",
-    "medium-zoom": "^1.0.2",
+    "medium-zoom": "^1.0.6",
     "prismjs": "^1.23.0",
     "throttle-debounce": "^2.1.0",
     "vue": "^2.6.10",
