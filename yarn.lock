@@ -12431,10 +12431,10 @@ vue-loader@^15.4.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-router-prefetch@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npmjs.org/vue-router-prefetch/-/vue-router-prefetch-1.1.1.tgz#abdaf17aed5af639fe982f285e430e282673f41a"
-  integrity sha512-1hqAMl9KAlDn7WH98c6u5+ia5iaYONwAd4zywhV5sLFjMxvLmRU6qFKJOGQ5DHUhjKtO+OW/7Oxx1ZCGZyuW2g==
+vue-router-prefetch@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/vue-router-prefetch/-/vue-router-prefetch-1.6.2.tgz#75a7f4b78da063273c8dc42164d1d2121920c091"
+  integrity sha512-99ct1en6MZSYCO9EJo3rf/EPUgOSpJAwOgAyNXIwLehizfDe/gVRqWWwkxZl8OqqV7A8kZQoNOtKU45/BFCLwg==
 
 vue-router@^3.0.1:
   version "3.0.2"
