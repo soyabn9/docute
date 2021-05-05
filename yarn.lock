@@ -12436,10 +12436,10 @@ vue-router-prefetch@^1.1.1:
   resolved "https://registry.npmjs.org/vue-router-prefetch/-/vue-router-prefetch-1.1.1.tgz#abdaf17aed5af639fe982f285e430e282673f41a"
   integrity sha512-1hqAMl9KAlDn7WH98c6u5+ia5iaYONwAd4zywhV5sLFjMxvLmRU6qFKJOGQ5DHUhjKtO+OW/7Oxx1ZCGZyuW2g==
 
-vue-router@^3.0.1:
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/vue-router/-/vue-router-3.0.2.tgz#dedc67afe6c4e2bc25682c8b1c2a8c0d7c7e56be"
-  integrity sha512-opKtsxjp9eOcFWdp6xLQPLmRGgfM932Tl56U9chYTnoWqKxQ8M20N7AkdEbM5beUh6wICoFGYugAX9vQjyJLFg==
+vue-router@^4.0.5:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.6.tgz#91750db507d26642f225b0ec6064568e5fe448d6"
+  integrity sha512-Y04llmK2PyaESj+N33VxLjGCUDuv9t4q2OpItEGU7POZiuQZaugV6cJpE6Qm1sVFtxufodLKN2y2dQl9nk0Reg==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
