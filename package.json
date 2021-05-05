@@ -26,7 +26,7 @@
     "vue-router": "^3.0.1",
     "vue-router-prefetch": "^1.1.1",
     "vue-template-compiler": "^2.6.10",
-    "vuex": "^3.0.1",
+    "vuex": "^3.6.2",
     "vuex-router-sync": "^5.0.0"
   },
   "devDependencies": {
