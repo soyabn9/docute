@@ -12396,12 +12396,10 @@ vue-compile@^0.3.1:
     stringify-attributes "^1.0.0"
     vue-template-compiler "^2.5.17"
 
-vue-content-loader@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/vue-content-loader/-/vue-content-loader-0.2.1.tgz#0eb332e2a72643d57fb209d72d6526573b191f5a"
-  integrity sha1-DrMy4qcmQ9V/sgnXLWUmVzsZH1o=
-  dependencies:
-    babel-helper-vue-jsx-merge-props "^2.0.3"
+vue-content-loader@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/vue-content-loader/-/vue-content-loader-2.0.0.tgz#8e3ef340505ec2a3a45d14f6b8c5ca588b110505"
+  integrity sha512-4HtRASF3y1S03pcilwneVZzbowwKyDBfsPzP2JE35RMDIjsPuGnr93nO/2kP4mmqP4Qwmw6uCPd3SHBgJAi8Bw==
 
 vue-eslint-parser@^4.0.2:
   version "4.0.3"
